@@ -1,3 +1,4 @@
 Devops is combinatio of following tools:
 git -> Version control System
 jenkins -> Continous Integration and Continous deployment
+Ansible -> Software Configuration mangement tool
